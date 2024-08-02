@@ -1,3 +1,27 @@
 # Mimo-project-1-
 Project including html,css
 Javascript.
+ 
+<html>
+ <head>
+ <link href="style.css"
+ rel="stylesheet"/>
+ </head>
+  
+ <body>
+   <img
+src="https://mimo.app/i/emmy.png"
+width="150">
+     <h1>Emmy</h1>
+     <h2>Aspiring Software
+Developer</h2>
+     <p>Welcome to my page!</p>
+     <a
+href="https:www.instagram.com
+/getmimo"
+target="_blank">Instagram</a>
+      <a
+href="https.//www.tiktok.com/@mimo.org"
+target="_blank">TikTok</a>
+ </body>
+ <html>
